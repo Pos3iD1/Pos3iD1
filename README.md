@@ -10,9 +10,9 @@
 - Statamic 2 CMS, Statamit 3 CMS
 
 ## 👀 I’m interested in 
-- programming
-- robotics
-- movie making
+- Programming
+- Robotics
+- Movie making
 
 ## 📖 I’m currently learning 
 - HTML, CSS, JS 
