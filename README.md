@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @Pos3iD1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Mikhail "Pos3iD1" Zavodnyy
 
-<!---
-Pos3iD1/Pos3iD1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🤓 Basic knowledge in: 
+- C++
+- C
+- Java SE
+- Python
+- HTML, CSS, JS
+- PHP, Laravel 8
+- Statamic 2 CMS, Statamit 3 CMS
+
+## 👀 I’m interested in 
+- programming
+- robotics
+- movie making
+
+## 📖 I’m currently learning 
+- HTML, CSS, JS 
+
+## 🔥️ I’m looking to collaborate on
+- PHP, Laravel 8
+
+## 📫 How to reach me
+- Telegram: @Pos3iD1
+- Mail: pos3id1@gmail.com
