@@ -5,7 +5,7 @@
 - C#
 - C
 - Java SE
-- Phyton
+- Python
 - HTML, CSS, JS
 - PHP, Laravel
 - Statamic 2 CMS, Statamic 3 CMS
